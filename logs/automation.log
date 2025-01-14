@@ -1,0 +1,21 @@
+13:20:39:118 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:39:124 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:39:125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:39:125 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:39:127 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:39:136 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+13:20:39:138 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:39:139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:39:139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:20:39:139 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:20:39:147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\New folder (2)\Framework2024\master.xml
+
+13:20:39:571 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+13:20:43:930 [main] INFO  testcase.TC001_Accountregistrationtest - Starting TC001_Accountregistrationtest 
+13:20:44:010 [main] INFO  testcase.TC001_Accountregistrationtest - Click on my account 
+13:20:45:274 [main] INFO  testcase.TC001_Accountregistrationtest - inputting all the detail in registartion page 
+13:20:47:138 [main] INFO  testcase.TC001_Accountregistrationtest - validating confirmation message
+13:20:47:206 [main] INFO  testcase.TC001_Accountregistrationtest - test finished
+13:20:51:545 [main] INFO  testcase.TC002_Logintest - >>> Login testcase is started 
+13:21:05:152 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3a2d3909: 0 ms

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master suit">
+    <test verbose="2" preserve-order="true" name="D:/New folder (2)/Framework2024/src/test/java/testcase">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+                <class name="testcase.TC001_Accountregistrationtest"/>
+               <!-- <class name="testcase.TC002_Logintest"/> -->
+            <!--<class name="testcase.TC003_LogintestDDT"/>-->
+        </classes>
+    </test>
+</suite>
